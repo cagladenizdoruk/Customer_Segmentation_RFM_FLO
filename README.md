@@ -6,7 +6,7 @@ The dataset consists of the information obtained from the past shopping behavior
 #### 12 Variables 
 #### 19.945 Observation
 # Requirements
-matplotlib==3.5.2
-pandas==1.4.3
+#### matplotlib==3.5.2
+#### pandas==1.4.3
 # Author
 Çağla Deniz Doruk
