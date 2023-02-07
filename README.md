@@ -1,4 +1,4 @@
-# FLO CUSTOMER SEGMENTATION using RFM
+# FLO CUSTOMER SEGMENTATION USING RFM
 ![Flo_RFM Customer Segmentation](https://user-images.githubusercontent.com/84645968/217378903-90e97a3d-cd4c-41b6-993d-ff424ce7f7f6.png)
 
 # Business Problem 
